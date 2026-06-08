@@ -1,0 +1,36 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+
+venv/
+.env
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# macOS
+
+.DS_Store
+
+# VS Code
+
+.vscode/
+
+# Models
+
+models/*.keras
+models/*.h5
+models/*.pkl
+
+# TensorFlow logs
+
+logs/
+
+# Temporary files
+
+*.log
